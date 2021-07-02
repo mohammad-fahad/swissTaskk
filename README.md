@@ -7,3 +7,5 @@ Node version: v15.6.0
 yarn version: 1.22.5
 npm version: 7.5.2
 
+## There is a bug in the google login.
+## In the API if I use t there are data but it donsen't come to the code, but if I use s, it shows all the data but it don't have genre and other infos. 
